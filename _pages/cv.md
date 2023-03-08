@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Find my full CV [here](https://drive.google.com/file/d/16PS-gE3khX4sqAfUKnA0Uv1fhkkOO7jr/view?usp=sharing)!
+
+<!---
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering, Swarthmore College, 2022
+* B.A. in Astrophysics, Swarthmore College, 2022
+* Ph.D in Earth and Planetary Science (in progress)
 
 Work experience
 ======
@@ -57,3 +60,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
