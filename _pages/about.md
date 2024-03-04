@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first year Ph.D. student in the Department of Earth and Planetary Sciences at the [University of Hawaii at Manoa](https://www.soest.hawaii.edu/earthsciences/). My research is associated with the [Hawaii Institute of Geophysics and Planetology (HIGP)](https://www.higp.hawaii.edu/), where I am advised by [Dr. Shuai Li](http://www2.hawaii.edu/~shuaili/Home.html).  
+Hi! I am a second year Ph.D. student in the Department of Earth and Planetary Sciences at the [University of Hawaii at Manoa](https://www.soest.hawaii.edu/earthsciences/). My research is associated with the [Hawaii Institute of Geophysics and Planetology (HIGP)](https://www.higp.hawaii.edu/), where I am advised by [Dr. Shuai Li](http://www2.hawaii.edu/~shuaili/Home.html).  
 
 I currently study visible-band images of permanently shadowed regions at the Moon's poles. I am searching for signs of water-ice, using a combination of observational data, laboratory spectroscopy experiments, and radiative transfer modeling. My broader interests concern the use of large dataset-driven techniques for studying planetary surfaces.
 
