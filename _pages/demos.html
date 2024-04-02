@@ -1,0 +1,12 @@
+---
+layout: archive
+permalink: /demos/
+title: "Demos"
+author_profile: true
+---
+
+Coding project demos can be found here!
+
+{% for post in site.demos reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
