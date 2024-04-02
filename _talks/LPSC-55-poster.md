@@ -1,5 +1,5 @@
 ---
-title: "A Low-Cost 3D-Printed Spectrogoniometer for Studying Reflectane Photometry (*)"
+title: "A Low-Cost 3D-Printed Spectrogoniometer for Studying Reflectance Photometry (*)"
 collection: talks
 type: "LPSC Poster"
 permalink: /talks/LPSC-55-poster
