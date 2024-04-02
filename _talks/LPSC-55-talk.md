@@ -1,7 +1,7 @@
 ---
 title: "Investigating Small Craters in Possible Water Ice Bearing Regions Using Shadowcam Imagery Data (*)"
 collection: talks
-type: "LPSC Poster"
+type: "LPSC Talk"
 permalink: /talks/LPSC-55-talk
 venue: "Lunar and Planetary Science Conference 55"
 date: 2024-03-13
