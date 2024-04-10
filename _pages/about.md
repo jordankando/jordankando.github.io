@@ -12,7 +12,7 @@ Hi! I am a second year Ph.D. student in the Department of Earth and Planetary Sc
 
 I currently study visible-band images of permanently shadowed regions at the Moon's poles. I am searching for signs of water-ice, using a combination of observational data, laboratory spectroscopy experiments, and radiative transfer modeling. My broader interests concern the use of large dataset-driven techniques for studying planetary surfaces.
 
-I am a recent graduate of [Swarthmore College](https://www.swarthmore.edu), where I earned a B.A. in Astrophysics and a B.S. in Engineering. I am excited to be beginning my planetary science journey in full! I envision this website to serve as a showcase of my research for interested parties, as well as provide a place for me to document my path through graduate school, and the skills I am developing along the way.
+I am a graduate of [Swarthmore College](https://www.swarthmore.edu), where I completed a B.A. in Astrophysics and a B.S. in Engineering. I am excited to be beginning my planetary science journey! I envision this website to serve as a showcase of my research for interested parties, as well as provide a place for me to document my path through graduate school, and the skills I am developing along the way.
 
 If you have any questions, comments, or suggestions about my research, or just want to say hi, please feel free to reach out via. the links on the left!
 

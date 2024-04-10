@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Find my full CV [here](https://drive.google.com/file/d/1zigCmZ3rRJ13eVmBVRB7gEqnoMF9xI5N/view?usp=sharing)!
+Find my full CV [here](www.google.com)!
 
 <!---
 Education
