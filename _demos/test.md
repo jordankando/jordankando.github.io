@@ -1,9 +1,9 @@
 ---
-title: 'Graduate School Semester One'
-date: 2023-03-07
-permalink: /test/
+title: 'Interactive G-X Phase Diagrams (ERTH 602 Final Project)'
+date: 2023-04-30
+permalink: /gx-diagrams/
 collection: demos
 
 ---
 
-This is a test demo.
+[Link to Jupyter Notebook]()
