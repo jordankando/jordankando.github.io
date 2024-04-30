@@ -244,6 +244,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: demos
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
 
 # Sass/SCSS
 sass:
