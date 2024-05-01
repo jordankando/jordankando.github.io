@@ -6,4 +6,4 @@ collection: demos
 
 ---
 
-[Link to Jupyter Notebook](https://jordankando.github.io/code-demos/lab/index.html?path=interactive_GX_phase_diagrams.ipynb)
+[Test Link to Jupyter Notebook](https://jordankando.github.io/code-demos/lab/index.html?path=interactive_GX_phase_diagrams.ipynb/)
