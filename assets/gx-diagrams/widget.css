@@ -1,0 +1,12 @@
+#gx-widget { padding: 1em; border: 1px solid #ddd; border-radius: 8px; margin: 1.5em 0; }
+#gx-status { font-size: .85em; }
+#gx-plot { min-height: 180px; }
+#gx-plot svg { display: block; width: 100%; height: auto; }
+#gx-controls { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1em; margin: 1em 0; }
+#gx-controls fieldset { min-width: 0; padding: .7em; border: 1px solid #ddd; }
+#gx-controls legend { font-weight: bold; padding: 0 .3em; }
+#gx-controls label { display: block; font-size: .8em; }
+#gx-controls input { display: block; width: 100%; margin: .4em 0 1em; }
+#gx-controls output { float: right; font-variant-numeric: tabular-nums; }
+#gx-reset { padding: .5em 1em; border: 1px solid #999; border-radius: 4px; cursor: pointer; }
+@media (max-width: 600px) { #gx-controls { grid-template-columns: 1fr; } }
