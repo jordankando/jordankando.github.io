@@ -1,12 +1,16 @@
 ---
 title: "Investigating Small Craters in Possible Water Ice Bearing Regions Using Shadowcam Imagery Data (*)"
 collection: talks
+presenting_author: true
 type: "LPSC Talk"
 permalink: /talks/LPSC-55-talk
 venue: "Lunar and Planetary Science Conference 55"
 date: 2024-03-13
 location: "The Woodlands, TX"
 ---
+
+**Presenting author:** Jordan Ando.
+
 
 Authors: Jordan Ando, Shuai Li, Madeline Manheim, Robert Wagner, Mark Robinson, and the ShadowCam Team
 

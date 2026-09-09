@@ -1,12 +1,16 @@
 ---
 title: "Locations and Multispectral Features of Distinct Classes of Diagenetic Features Within the Murray Formation, Gale Crater, Mars (*)"
 collection: talks
+presenting_author: true
 type: "LPSC Poster"
 permalink: /talks/LPSC-53
 venue: "Lunar and Planetary Science Conference 53"
 date: 2022-03-15
 location: "The Woodlands, TX"
 ---
+
+**Presenting author:** Jordan Ando.
+
 
 Authors: Jordan Ando, Rachel Y. Sheppard, Abigail Fraeman, Vivian Sun
 

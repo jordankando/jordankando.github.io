@@ -1,12 +1,16 @@
 ---
 title: "Detection and Modeling of Visible Albedo Due to Surficial Ice at the Lunar South Pole (*)"
 collection: talks
+presenting_author: true
 type: "LPSC Poster"
 permalink: /talks/LPSC-54
 venue: "Lunar and Planetary Science Conference 54"
 date: 2023-03-16
 location: "The Woodlands, TX"
 ---
+
+**Presenting author:** Jordan Ando.
+
 
 Authors: Jordan Ando, Shuai Li
 
