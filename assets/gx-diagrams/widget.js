@@ -68,7 +68,7 @@
     if (worker) worker.terminate();
   }
   try {
-    worker = new Worker(root.dataset.worker);
+    worker = new Worker(root.dataset.worker, { type: "module" });
     worker.onerror = fail;
     worker.onmessage = ({ data }) => {
       if (data.type === "status") {

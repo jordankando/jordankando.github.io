@@ -4,7 +4,7 @@ let python;
 self.onmessage = async ({ data }) => {
   try {
     if (data.type === "init") {
-      importScripts(runtimeURL + "pyodide.js");
+      const { loadPyodide } = await import(runtimeURL + "pyodide.mjs");
       python = await loadPyodide({ indexURL: runtimeURL });
       self.postMessage({ type: "status", message: "Loading NumPy, SciPy, and Matplotlib…" });
       await python.loadPackage(["numpy", "scipy", "matplotlib"]);
