@@ -1,16 +1,12 @@
 ---
 title: "A Low-Cost 3D-Printed Spectrogoniometer for Studying Reflectance Photometry (*)"
 collection: talks
-presenting_author: true
 type: "LPSC Poster"
 permalink: /talks/LPSC-55-poster
 venue: "Lunar and Planetary Science Conference 55"
 date: 2024-03-12
 location: "The Woodlands, TX"
 ---
-
-**Presenting author:** Jordan Ando.
-
 
 Authors: Jordan Ando, Shuai Li
 

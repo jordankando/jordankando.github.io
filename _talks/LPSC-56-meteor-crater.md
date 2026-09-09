@@ -6,10 +6,7 @@ permalink: "/talks/LPSC-56-meteor-crater"
 venue: "Lunar and Planetary Science Conference 56"
 date: 2025-03-11
 location: "The Woodlands, TX"
-presenting_author: false
 ---
-
-**Role:** Coauthor. **Presenting author:** D. A. Kring.
 
 Authors: D. A. Kring, J. Ando, C. Bill, P. C. Boan, É. Brassard, M. Deahn, F. Diotte, B. Douglas, B. Dotson, A. Gmerek, M. Hoffman, B. Kugabalan, S. Lamm, J. Losarcos, D. Mason, S. Perez-Lopez, and H. L. Skjetne
 

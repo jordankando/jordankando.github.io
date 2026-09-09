@@ -6,10 +6,7 @@ permalink: "/talks/LPSC-56-diagenetic-features"
 venue: "Lunar and Planetary Science Conference 56"
 date: 2025-03-12
 location: "Virtual"
-presenting_author: false
 ---
-
-**Role:** Coauthor. **Presenting author:** R. Y. Sheppard.
 
 Authors: R. Y. Sheppard, J. Ando, A. B. Bryk, V. Sun, C. H. Seeger, A. A. Fraeman, A. M. Eng, L. Kah, and A. N. Rudolph
 

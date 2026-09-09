@@ -6,10 +6,7 @@ permalink: "/talks/LPSC-56-poster"
 venue: "Lunar and Planetary Science Conference 56"
 date: 2025-03-13
 location: "The Woodlands, TX"
-presenting_author: true
 ---
-
-**Presenting author:** Jordan Ando.
 
 Authors: J. K. Ando, S. Li, M. Manheim, R. Wagner, M. Robinson, and the ShadowCam Team
 

@@ -1,16 +1,12 @@
 ---
 title: "Does the Morphology of Alluvial Fan Drainage Basins Reflect Their Climate?: A Case Study of Terrestrial Basaltic Fans (*)"
 collection: talks
-presenting_author: true
 type: "LPSC Poster"
 permalink: /talks/LPSC-52
 venue: "Lunar and Planetary Science Conference 52"
 date: 2021-03-14
 location: "Virtual"
 ---
-
-**Presenting author:** Jordan Ando.
-
 
 Authors: Jordan Ando, Frances Rivera-Hernandez, Marisa Palucis
 

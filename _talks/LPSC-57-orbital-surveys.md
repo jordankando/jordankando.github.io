@@ -6,10 +6,7 @@ permalink: "/talks/LPSC-57-orbital-surveys"
 venue: "Lunar and Planetary Science Conference 57"
 date: 2026-03-20
 location: "The Woodlands, TX"
-presenting_author: false
 ---
-
-**Role:** Coauthor. **Presenting author:** A. J. Blance.
 
 Authors: A. J. Blance, J. K. Ando, É. Brassard, A. Gmerek, R. Platt, et al.
 

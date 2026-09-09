@@ -6,10 +6,7 @@ permalink: "/talks/LPSC-57-talk"
 venue: "Lunar and Planetary Science Conference 57"
 date: 2026-03-19
 location: "The Woodlands, TX"
-presenting_author: true
 ---
-
-**Presenting author:** Jordan Ando.
 
 Authors: J. K. Ando and S. Li
 

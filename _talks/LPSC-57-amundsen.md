@@ -6,10 +6,7 @@ permalink: "/talks/LPSC-57-amundsen"
 venue: "Lunar and Planetary Science Conference 57"
 date: 2026-03-19
 location: "The Woodlands, TX"
-presenting_author: false
 ---
-
-**Role:** Coauthor.
 
 Authors: M. Simopoulou, L. Galien, Z. A. Guess, A. V. Jasko, K. Tunnell, J. Ando, A. Blance, É. Brassard, A. Gmerek, R. Platt, and D. A. Kring
 
